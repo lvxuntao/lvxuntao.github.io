@@ -12,7 +12,7 @@ title                    : "Xuntao Lyu / Site Title"
 title_separator          : "-"
 name                     : &name "Xuntao Lyu"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://lvxuntao.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -28,7 +28,7 @@ author:
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xlyu5@ncsu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
