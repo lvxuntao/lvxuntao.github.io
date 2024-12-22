@@ -24,9 +24,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Xuntao Lyu"
   pronouns         : # example: "she/her"  
-  bio              : |
-    "xlyu5@ncsu.edu
-    PhD in Computer Science"
+  bio              : | 
+    xlyu5@ncsu.edu 
+    PhD in Computer Science 
   location         : "Earth"
   employer         : "North Carolina State University"
   uri              : # URL
@@ -220,9 +220,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  # portfolio:
-  #   output: false
-  #   permalink: /:collection/:path/
+  portfolio:
+    output: false
+    permalink: /:collection/:path/
   talks:
     output: false
     permalink: /:collection/:path/
@@ -267,14 +267,14 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  # - scope:
-  #     path: ""
-  #     type: portfolio
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comment: true
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
