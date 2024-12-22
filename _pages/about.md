@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # About Me
 
 I am currently a Ph.D. candidate in **Computer Science** at [North Carolina State University](https://www.ncsu.edu/), under the supervision of [Prof. Min Chi](https://scholar.google.com/citations?user=gJmbChYAAAAJ&hl=en). My research interests focus on **AI for Healthcare** and **Reinforcement Learning**.
