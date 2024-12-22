@@ -24,10 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Xuntao Lyu"
   pronouns         : # example: "she/her"  
-  bio: |
-    {% raw %}
-    xlyu5@ncsu.edu<br>PhD in Computer Science
-    {% endraw %}
+  bio              : "PhD in Computer Science"
   location         : "Raleigh, NC"
   employer         : "North Carolina State University"
   uri              : # URL
@@ -61,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "XuntaoLyu"
+  linkedin         : "xuntao-lyu"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
