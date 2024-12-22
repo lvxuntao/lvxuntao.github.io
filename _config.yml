@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "✨Xuntao Lyu"
+title                    : "✨Homepage"
 title_separator          : "-"
 name                     : &name "Xuntao Lyu"
 description              : &description "personal description"
